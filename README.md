@@ -28,11 +28,8 @@ I'm a progressing full-stack developer and content creator teaching people in my
 <a href="https://www.youtube.com/channel/UCf7pXFEZnmMiK_DsujuChfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 </p>
 
-
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCf7pXFEZnmMiK_DsujuChfA?sub_confirmation=1)
 
 #
 
