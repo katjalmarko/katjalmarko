@@ -23,9 +23,7 @@ I'm a progressing full-stack developer and content creator teaching people in my
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![#3 JAVASCRIPT pre začiatočníkov - AKO SA NAUČIŤ PROGRAMOVAŤ do POL ROKA v 2023](https://ytcards.demolab.com/?id=Ov1tuHS4uNw&title=How+to+Improve+Efficiency+as+a+Software+Developer&lang=en&timestamp=1669140023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=535 "#3 JAVASCRIPT pre začiatočníkov - AKO SA NAUČIŤ PROGRAMOVAŤ do POL ROKA v 2023")](https://www.youtube.com/watch?v=Ov1tuHS4uNw)
-[![#2 HTML + CSS - AKO SA NAUČIŤ PROGRAMOVAŤ do POL ROKA v 2023 pre úplných začiatočníkov WEB DEV](https://ytcards.demolab.com/?id=b0pkpcD8Ms4&title=How+to+Build+a+Minimal+Developer+Portfolio+Website+Using+React+%2B+Tailwind+%2B+Vite&lang=en&timestamp=1668434431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4119 "#2 HTML + CSS - AKO SA NAUČIŤ PROGRAMOVAŤ do POL ROKA v 2023 pre úplných začiatočníkov WEB DEV")](https://www.youtube.com/watch?v=b0pkpcD8Ms4)
-[![#1 AKO SA NAUČIŤ PROGRAMOVAŤ do POL ROKA v 2023 pre úplných začiatočníkov Frontend Web Development](https://ytcards.demolab.com/?id=DIny00tOBdU&title=Command+Line+Tools+ALL+Developers+Should+Know&lang=en&timestamp=1667250900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=434 "#1 AKO SA NAUČIŤ PROGRAMOVAŤ do POL ROKA v 2023 pre úplných začiatočníkov Frontend Web Development")](https://www.youtube.com/watch?v=DIny00tOBdU)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCf7pXFEZnmMiK_DsujuChfA?sub_confirmation=1)
