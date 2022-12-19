@@ -24,6 +24,8 @@ I'm a progressing full-stack developer and content creator teaching people in my
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
+
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCf7pXFEZnmMiK_DsujuChfA?sub_confirmation=1)
@@ -35,3 +37,6 @@ I'm a progressing full-stack developer and content creator teaching people in my
    I'm a 22 years old man from Slovakia working on my own as a nutritionist. Which is a profession I felt like I needed to learn early in life in order to make my family healthy and also all the people around me, as this is the thing that everyone should take care of in the first place.
    After taking care of health, I started my coding journey thanks to my friend who's been able to learn everything he knows all by himself. He inspired me to try coding too and it quickly became my passion. I always loved to try new challenges in life and this one might be one of the biggest but also most valuable as I see great importance in it, especially for the future.
    There is nothing that I´m unwilling to learn, as long as it gives me purpose. So let's see what the future has in store for me and I´ll make sure I'm prepared for anything to come.
+
+
+[youtube]: https://www.youtube.com/channel/UCf7pXFEZnmMiK_DsujuChfA
