@@ -2,7 +2,7 @@
 
 **`(Developer/Creator)`**
 
-I'm a progressing full-stack developer and content creator teaching people in my country what it takes to become a coder from scratch. I publish that content on my YouTube channel "[00-coding][youtube]" to SK/CZ audience.
+I'm a progressing full-stack developer and content creator showing people in my country what it takes to become a coder from scratch. I publish that content on my YouTube channel "[00-coding][youtube]" to SK/CZ audience.
 
 ---
 
@@ -22,10 +22,9 @@ I'm a progressing full-stack developer and content creator teaching people in my
 
 ### 📺 Connect with me
 <p align="left">
-<a href="https://twitter.com/Markokatjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/marko-katjal-90ab3320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/markokatjal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCf7pXFEZnmMiK_DsujuChfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/marko-katjal-90ab3320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/channel/UCf7pXFEZnmMiK_DsujuChfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
