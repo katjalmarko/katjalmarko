@@ -2,7 +2,7 @@
 
 **`(Developer/Creator)`**
 
-I'm a progressing full-stack developer and content creator showing people in my country what it takes to become a coder from scratch. I publish that content on my YouTube channel "[00-coding][youtube]" to SK/CZ audience.
+I'm a progressing full-stack developer and content creator showing people in my country what it takes to become a coder from scratch and with it many useful features from WEB3 & AI world. I publish that content on my YouTube channel "[00-coding][youtube]" to SK/CZ audience.
 
 ---
 
@@ -16,6 +16,7 @@ I'm a progressing full-stack developer and content creator showing people in my 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg)" />
 <br />
 
 #
