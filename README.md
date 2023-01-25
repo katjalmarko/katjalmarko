@@ -2,7 +2,7 @@
 
 **`(Developer/Creator)`**
 
-I'm a progressing Front-end developer and content creator showing people in my country what it takes to become a coder from scratch and with it many useful features from WEB3 & AI world. I publish that content on my YouTube channel "[00-coding][youtube]" to SK/CZ audience.
+I'm a progressing Full Stack developer and content creator showing people in my country what it takes to become a coder from scratch and with it many useful features from WEB3 & AI world. I publish that content on my YouTube channel "[00-coding][youtube]" to SK/CZ audience.
 
 ---
 
