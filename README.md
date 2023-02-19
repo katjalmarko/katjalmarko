@@ -16,7 +16,20 @@ I'm a progressing Full Stack developer and content creator showing people in my 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" 
+     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;"      
+     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img align="left" alt="Canva" width="30px" style="padding-right:10px;" 
+     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/canva/canva-original.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" 
+     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" 
+     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="Redux" width="30px" style="padding-right:10px;" 
+     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/redux/redux-original.svg" />
+<img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" 
+     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nextjs/nextjs-line.svg" />
 <br />
 
 #
