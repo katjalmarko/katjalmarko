@@ -41,12 +41,6 @@ I also document my whole journey of coding in order to show people what it takes
 
 #
 
-### 📺 Connect with me
-<p align="left">
-     <a href="https://www.linkedin.com/in/marko-katjal-90ab3320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-     <a href="https://www.instagram.com/markokatjal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-     <a href="https://www.facebook.com/markokatjal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="facebook" height="30" width="40" /></a>
-</p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
