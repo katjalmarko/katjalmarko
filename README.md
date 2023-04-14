@@ -3,6 +3,7 @@
 **`(Junior Frontend Developer)`**
 
 Specializing primarily in React, Typescript & Javascript, with experience in HTML/CSS, Next, Redux, Firebase, MongoDB, Tailwind CSS, MaterialUI, Git/Github and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦 or 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦.
+I also document my whole journey of coding in order to show people what it takes to become a coder from scratch and with it many useful features from WEB3 & AI world. I publish that content on my YouTube channel "[00-coding][youtube]" to SK/CZ audience.
 
 I'm currently looking for a front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
 
@@ -43,7 +44,6 @@ I'm currently looking for a front-end or full-stack web developer position. I'm 
  <summary><h3>👨‍💻 Marko's Journey</h3></summary>
    I'm a 23 years old Slovak working on my own as a nutritionist. Which is a skill I felt like I needed to learn early in life in order to make my family healthy and also all the people around me, as this is the thing that everyone should take care of in the first place.
    After taking care of health, I started my coding journey thanks to my friend who's been able to learn everything he knows all by himself. He inspired me to try it too and it quickly became my passion. I always loved to try new challenges in life and this one might be one of the most valuable as I see great importance in coding alongside with WEB3 & AI technologies, especially for the future.
-   I also document my whole journey of coding in order to show people what it takes to become a coder from scratch and with it many useful features from WEB3 & AI world. I publish that content on my YouTube channel "[00-coding][youtube]" to SK/CZ audience.
    There is nothing that I´m unwilling to learn, as long as it gives me purpose. So let's see what the future holds for me and I´ll make sure I'm prepared for anything to come.
 
 
