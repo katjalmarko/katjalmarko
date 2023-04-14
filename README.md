@@ -39,13 +39,7 @@ I also document my whole journey of coding in order to show people what it takes
      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/canva/canva-original.svg" />
 <br />
 
-#
-
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-
-#
+---
 
 <details>
  <summary><h3>👨‍💻 Marko's Journey</h3></summary>
