@@ -1,4 +1,4 @@
---- 🙋‍♂️ Marko Katjal
+# 🙋‍♂️ Marko Katjal
 
 **`(Junior Frontend Developer)`**
 
