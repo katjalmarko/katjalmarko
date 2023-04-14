@@ -7,9 +7,6 @@ Specializing primarily in React, Typescript & Javascript, with experience in HTM
 I'm currently looking for a front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
 
 💬 If you are interested in me, I would be glad to have a conversation.
-
-- Mail: katjalmarko@gmail.com
-- Linkedin: https://www.linkedin.com/in/marko-katjal-90ab3320b/
  
 
 I also document my whole journey of coding in order to show people what it takes to become a coder from scratch and with it many useful features from WEB3 & AI world. I publish that content on my YouTube channel "[00-coding][youtube]" to SK/CZ audience.
