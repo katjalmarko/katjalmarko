@@ -5,6 +5,7 @@
 Specializing primarily in React, Typescript & Javascript, with experience in HTML/CSS, Next, Redux, Firebase, MongoDB, Tailwind CSS, MaterialUI, Git/Github and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦 or 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦.
 
 I'm currently looking for a front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
+
 💬 If you are interested in me, I would be glad to have a conversation.
 
 - Mail: katjalmarko@gmail.com
