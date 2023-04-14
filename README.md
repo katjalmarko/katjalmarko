@@ -1,4 +1,4 @@
-# 🙋‍♂️ Marko Katjal
+--- 🙋‍♂️ Marko Katjal
 
 **`(Junior Frontend Developer)`**
 
@@ -11,7 +11,7 @@ I'm currently looking for a front-end or full-stack web developer position. I'm 
 
 I also document my whole journey of coding in order to show people what it takes to become a coder from scratch and with it many useful features from WEB3 & AI world. I publish that content on my YouTube channel "[00-coding][youtube]" to SK/CZ audience.
 
----
+#
 
 ### 🧰 Languages and Tools
 
@@ -39,7 +39,7 @@ I also document my whole journey of coding in order to show people what it takes
      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/canva/canva-original.svg" />
 <br />
 
----
+#
 
 <details>
  <summary><h3>👨‍💻 Marko's Journey</h3></summary>
