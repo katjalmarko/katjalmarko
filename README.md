@@ -16,26 +16,26 @@ I also document my whole journey of coding in order to show people what it takes
 ### 🧰 Languages and Tools
 
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" 
+<img align="left" alt="Git" height="50" width="65" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" height="50" width="65" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="HTML" height="50" width="65" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" height="50" width="65" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" height="50" width="65" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" height="50" width="65" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" height="50" width="65" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="TypeScript" height="50" width="65" style="padding-right:10px;" 
      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;"      
+<img align="left" alt="Tailwind CSS" height="50" width="65" style="padding-right:10px;"      
      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" 
+<img align="left" alt="Firebase" height="50" width="65" style="padding-right:10px;" 
      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" 
+<img align="left" alt="MongoDB" height="50" width="65" style="padding-right:10px;" 
      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" 
+<img align="left" alt="Redux" height="50" width="65" style="padding-right:10px;" 
      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/redux/redux-original.svg" />
-<img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" 
+<img align="left" alt="Nextjs" height="50" width="65" style="padding-right:10px;" 
      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nextjs/nextjs-line.svg" />
-<img align="left" alt="Canva" width="30px" style="padding-right:10px;" 
+<img align="left" alt="Canva" height="50" width="65" style="padding-right:10px;" 
      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/canva/canva-original.svg" />
 <br />
 
