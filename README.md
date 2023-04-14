@@ -2,7 +2,7 @@
 
 **`(Junior Frontend Developer)`**
 
-Specializing primarily in React, Typescript & Javascript, with experience in HTML/CSS, Next, Redux, Firebase, MongoDB, Tailwind CSS, MaterialUI, Git/Github and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦 or 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦.
+Specializing in React, Typescript & Javascript, with experience in HTML/CSS, Next, Redux, Firebase, MongoDB, Tailwind CSS, MaterialUI, Git/Github and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦 or 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦.
 I also document my whole journey of coding in order to show people what it takes to become a coder from scratch and with it many useful features from WEB3 & AI world. I publish that content on my YouTube channel "[00-coding][youtube]" to SK/CZ audience.
 
 I'm currently looking for a front-end or full-stack web developer position. I'm motivated to learn fast and become a valuable team member.
