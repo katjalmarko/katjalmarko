@@ -3,7 +3,6 @@
 **`(Frontend Developer)`**
 
 Specializing in React, Typescript & Javascript, with experience in HTML/CSS, Next, Redux, Firebase, MongoDB, Tailwind CSS, MaterialUI, Git/Github and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦 or 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦.
-I also document my whole journey of coding in order to show people what it takes to become a coder from scratch and with it many useful features from WEB3 & AI world. I publish that content on my YouTube channel "[00-coding][youtube]" to SK/CZ audience.
 
 I'm currently looking for a Frontend or Full-stack Developer position, with the ability to learn quickly and become a valuable team member.
 
@@ -47,6 +46,3 @@ I'm currently looking for a Frontend or Full-stack Developer position, with the 
    This flexible online job offers me the freedom and time to code, which I try to do all day long, even on weekends, as I see it as the most meaningful skill I can devote my energy to. Programming is a top priority for me, and I subordinate my whole life to it.
 
 I would love to meet new ambitious people in the coding field with whom we can move forward and create something significant together.
-
-
-[youtube]: https://www.youtube.com/channel/UCf7pXFEZnmMiK_DsujuChfA
