@@ -1,13 +1,12 @@
 # 🙋‍♂️ Marko Katjal
 
-**`(Frontend Developer)`**
+**`(Fullstack/Frontend Developer)`**
 
-Specializing in React, Typescript & Javascript, with experience in HTML/CSS, Next, Redux, Firebase, MongoDB, Tailwind CSS, MaterialUI, Git/Github and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦 or 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦.
+Specializing in React + Next, Typescript & Javascript, 
+With experience in Redux, Firebase, Supabase, PostgreSQL, MongoDB, Stripe, RevenueCat, Tailwind CSS, HTML/CSS,...
+Git/Github and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦 or 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦,
+Collaborative team communication platforms like Slack, ClickUp & many more.
 
-I'm currently looking for a Frontend or Full-stack Developer position, with the ability to learn quickly and become a valuable team member.
-
-💬 If you are interested in me, I would be glad to have a conversation.
- 
 
 #
 
@@ -41,8 +40,8 @@ I'm currently looking for a Frontend or Full-stack Developer position, with the 
 
 <details>
  <summary><h3>👨‍💻 Marko's Journey</h3></summary>
-   I am a 23-year-old Slovakian who has been continuously educating in the field of health since a young age. I have also been coaching other people in this area, and that is what I do for a living at the moment.
+   I am a 23-year-old Slovakian who has been continuously educating in the field of health since a young age. I am also coaching other people in this area.
 
-   This flexible online job offers me the freedom and time to code, which I try to do all day long, even on weekends, as I see it as the most meaningful skill I can devote my energy to. Programming is a top priority for me, and I subordinate my whole life to it.
+   This flexible online job offers me the freedom and time to code, to which I am devoting most of my energy, as I see great importance in this skill.
 
-I would love to meet new ambitious people in the coding field with whom we can move forward and create something significant together.
+   I would love to meet new ambitious people in the coding field with whom we can move forward and create something significant together.
